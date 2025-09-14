@@ -1,0 +1,25 @@
+{
+  "name": "banking-program",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/UFCxBfeV2PqCYKW5boKVwB/Untitled.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "tailwind-merge": "*",
+    "vaul": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@vitejs/plugin-react-swc": "^3.10.2",
+    "vite": "6.3.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
